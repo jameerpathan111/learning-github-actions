@@ -1,1 +1,2 @@
-# learning-github-actions
+# Exercise files for Chapter 01
+Testing
